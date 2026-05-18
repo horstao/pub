@@ -59,6 +59,7 @@ Let's connect if you're working on something ambitious with AI.
 ---
 
 
+
 ## Academic Formation
 
 **MBA in Engineering Management** — University of São Paulo (USP)<br/>
@@ -103,6 +104,9 @@ Dissertation: *A Hardware-Software Solution for Parking Lots* ; Concluded Decemb
 - Document processing costs reduced by 70%
 
 
+---
+
+
 ### Company: Tradex Solutions
 **Position: AI Architect**<br/>
 **Project: Product Recognition on Supermarket Photos**<br/>
@@ -119,6 +123,9 @@ Dissertation: *A Hardware-Software Solution for Parking Lots* ; Concluded Decemb
 - Supermarket operator time decreased by 70%
 - Product identification accuracy raised from 88% (human) to 95% (AI)
 - Real-time observability and alerts on Grafana
+
+
+---
 
 
 
@@ -172,6 +179,9 @@ Built the AI backbone for a student tutoring platform using RAG architecture and
 **Technologies:** Python ; SQL ; Bash ; HTML ; JavaScript ; CSS ; Keras ; TensorFlow ; PyTorch ; BERT ; Hugging Face ; Scikit-Learn ; spaCy ; NLTK ; Grafana ; Prometheus ; PowerBI ; Kafka ; Flask ; Docker ; MongoDB ; GCP ; Google OCR ; Azure SQL
 
 
+---
+
+
 ### Company: Telefônica Vivo
 **Position: Specialist Data Scientist**<br/>
 **Project: Aura Project**<br/>
@@ -184,6 +194,9 @@ Built the AI backbone for a student tutoring platform using RAG architecture and
 - Handled large datasets (100GB+) with Hadoop
 
 **Technologies:** Python ; SQL ; Bash ; HTML ; JavaScript ; CSS ; Scikit-Learn ; LightGBM ; NumPy ; Pandas ; PySpark ; Jupyter ; Grafana ; PowerBI ; Hadoop ; Spark ; SAS ; Teradata ; Azure
+
+
+---
 
 
 
@@ -200,6 +213,9 @@ Trained Data Science models for chargeback fraud prevention.
 - Delivered solution dashboards on PowerBI
 
 
+---
+
+
 ### Company: EMC (Dell)
 **Position: Data Scientist**<br/>
 **Project: Contracts Analyzer Solution**<br/>
@@ -212,6 +228,9 @@ Developed a document analysis pipeline with OCR and text mining for named entity
 - Built end-to-end scanned document pipeline with OCR + NER
 - Processing throughput of 20 documents per second
 - Cross-linked contracts sharing common associates
+
+
+---
 
  
 ### Boolabs
@@ -230,6 +249,9 @@ One of the first Brazilian companies to use Deep Learning.
 - Created a Named Entity Recognition (NER) model to extract entities from OCR'd contracts
 **Technologies:** Python · C++ · Java · JavaScript · Caffe · Scikit-Learn · Tesseract · Pandas · NumPy · Matplotlib
  
+
+---
+
  
 ### Company: Resource Technologies
 **Position: Automation Engineer**<br/> 
@@ -255,11 +277,11 @@ One of the first Brazilian companies to use Deep Learning.
 | Year | Achievement |
 |------|-------------|
 | 2023 | Worked on a project using GPT-4 prior to its public release — USA |
-| 2021 | Presented *"When Should I Retrain My Model"* at TDC Internacional |
-| 2020 | Created HAPS — Artificial Pancreas for Type-1 Diabetes for a 640g insulin pump |
-| 2015 | Scientific paper presented at VipImage 2015, Spain |
-| 2014 | Accepted by the University of Pennsylvania (USA) for an exchange doctorate programme |
-| 2013 | Scientific paper presented at VipImage 2013, Portugal |
+| 2021 | Presented [When Should I Retrain My Model](https://thedevconf.com/tdc/2021/future/artificial-intelligence-track) at TDC Internacional |
+| 2020 | Created [HAPS — Artificial Pancreas for Type-1 Diabetes for a 640g insulin pump](https://github.com/horstao/pub/blob/main/Erdmann_Pancreas_Artificial_Deposito_Final.pdf) |
+| 2015 | Scientific paper presented at [VipImage 2015](https://github.com/horstao/pub/blob/main/VIPIMAGE2015%20-%20Improving%20deep%20neural%20networks%20classification%20by%20preprocessing%20images.pdf), Portugal |
+| 2014 | Accepted by the [University of Pennsylvania (USA)](https://github.com/horstao/pub/blob/main/UPenn%20Acceptance.pdf) for an exchange doctorate programme |
+| 2013 | Scientific paper presented at [VipImage 2013](https://github.com/horstao/pub/blob/main/VIPIMAGE2013%20-%20A%20study%20of%20a%20firefly%20meta-heuristics%20for%20multithreshold%20image%20segmentation.pdf), Portugal |
 | 2010 | Professor at University Paulista — Programming and Computer Networks |
 | 2008 | Data security course instructor in Chile |
 | 2007 | Published four international book chapters on scientific research |
