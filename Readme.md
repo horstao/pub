@@ -27,17 +27,17 @@ I enjoy mentoring and helping people to learn and implement Data Science and AI.
 
 ## Academic Formation
 
-**MBA in Engineering Management** — University of São Paulo (USP)
-Dissertation: *Artificial Pancreas System for Type-1 Diabetes* ; Concluded July 2021
+**MBA in Engineering Management** — University of São Paulo (USP)<br/>
+Dissertation: *Artificial Pancreas System for Type-1 Diabetes* ; Concluded July 2021<br/>
 
-**Doctorate in Artificial Intelligence (ABD)** — University of FEI 
-Dissertation: *Gaussian Mixture Models with Non-Extensive Entropy* ; In Progress
+**Doctorate in Artificial Intelligence (ABD)** — University of FEI <br/>
+Dissertation: *Gaussian Mixture Models with Non-Extensive Entropy* ; In Progress<br/>
 
-**Master's in Artificial Intelligence** — University of FEI
-Dissertation: *Non-Extensive Entropy for Image Processing* ; Concluded December 2009
+**Master's in Artificial Intelligence** — University of FEI<br/>
+Dissertation: *Non-Extensive Entropy for Image Processing* ; Concluded December 2009<br/>
 
-**Electrical Engineering** — University of FEI
-Dissertation: *A Hardware-Software Solution for Parking Lots* ; Concluded December 2004
+**Electrical Engineering** — University of FEI<br/>
+Dissertation: *A Hardware-Software Solution for Parking Lots* ; Concluded December 2004<br/>
 
 ---
 
