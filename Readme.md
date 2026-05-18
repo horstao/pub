@@ -2,12 +2,12 @@
 **Lead AI Engineer & Data Scientist**<br/>
 **Computer Vision · NLP · Generative AI**
 
-<table width="100%">
-  <tr>
-    <td align="center" width="150">
+<table width="100%" border="0">
+  <tr border="0">
+    <td align="center" width="150" border="0">
       <img src="https://raw.githubusercontent.com/horstao/pub/main/fundo-branco-2026-1x1.png" width="120"/>
     </td>
-    <td>
+    <td border="0">
       São Paulo, SP, Brazil <br/>
       <a href="https://wa.me/5511993314645">+55 11 9 9331-4645</a><br/>
       <a href="mailto:horstao@gmail.com">horstao@gmail.com</a><br/>
