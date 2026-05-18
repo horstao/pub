@@ -279,12 +279,12 @@ One of the first Brazilian companies to use Deep Learning.
 | 2023 | Worked on a project using GPT-4 prior to its public release — USA |
 | 2021 | Presented [When Should I Retrain My Model](https://thedevconf.com/tdc/2021/future/artificial-intelligence-track) at TDC Internacional |
 | 2020 | Created [HAPS — Artificial Pancreas for Type-1 Diabetes for a 640g insulin pump](https://github.com/horstao/pub/blob/main/Erdmann_Pancreas_Artificial_Deposito_Final.pdf) |
-| 2015 | Scientific paper presented at [VipImage 2015](https://github.com/horstao/pub/blob/main/VIPIMAGE2015%20-%20Improving%20deep%20neural%20networks%20classification%20by%20preprocessing%20images.pdf), Portugal |
+| 2015 | Scientific paper presented at [VipImage 2015](https://github.com/horstao/pub/blob/main/VIPIMAGE2015%20-%20Improving%20deep%20neural%20networks%20classification%20by%20preprocessing%20images.pdf), Spain |
 | 2014 | Accepted by the [University of Pennsylvania (USA)](https://github.com/horstao/pub/blob/main/UPenn%20Acceptance.pdf) for an exchange doctorate programme |
+| 2013 | Published two ([1](https://github.com/horstao/pub/blob/main/2013-Sibgrapi.pdf) [2](https://github.com/horstao/pub/blob/main/2013-WVC_shannon_pond_v2.4b.pdf)) international book chapters on scientific research |
 | 2013 | Scientific paper presented at [VipImage 2013](https://github.com/horstao/pub/blob/main/VIPIMAGE2013%20-%20A%20study%20of%20a%20firefly%20meta-heuristics%20for%20multithreshold%20image%20segmentation.pdf), Portugal |
 | 2010 | Professor at University Paulista — Programming and Computer Networks |
 | 2008 | Data security course instructor in Chile |
-| 2007 | Published four international book chapters on scientific research |
 | 2007 | Worked at Vivo in Peru and Bancolombia in Colombia |
 | 2006 | Lived 7 months in Chile working at Falabella |
 | 2002 | Lived 3 months in Germany for a trainee programme at Monforts |
