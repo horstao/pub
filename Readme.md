@@ -37,6 +37,24 @@ Currently based in São Paulo. Open to AI lead and architect roles in Brazil or 
 
 Let's connect if you're working on something ambitious with AI.
 
+---
+
+## Skills
+ 
+**Generative AI & LLMs:** GPT-4 · GPT-3 · LLM Fine-tuning · RAG (Retrieval-Augmented Generation) · Prompt Engineering · LLMOps · TorchServe · Hugging Face · BERT · MiniLM · Transformers
+ 
+**Computer Vision:** Object Detection · YOLO · EfficientNet · OpenCV · CNN · OCR (Tesseract, Google OCR) · Image Classification · Image Segmentation · Caffe 
+ 
+**NLP:** Named Entity Recognition (NER) · Text Classification · Sentiment Analysis · spaCy · NLTK · Elasticsearch · Lucene · Bag-of-Words · Hugging Face · Transformers
+ 
+**Machine Learning & MLOps:** PyTorch · TensorFlow · Keras · Scikit-Learn · LightGBM · Random Forest · Model Monitoring · Drift Detection · Feature Engineering · A/B Testing · Anomaly Detection
+ 
+**Data Engineering:** Python · SQL · Hadoop · Spark · Kafka · Redis · Pandas · NumPy · PostgreSQL · MongoDB · Microsoft SQL Server · MySQL
+ 
+**Cloud & Infrastructure:** AWS (S3, EKS) · GCP · Azure · Docker · Kubernetes · FastAPI · Flask · Grafana · Prometheus · Label Studio · Linux · Bash · Shell Scripting
+ 
+**Languages:** Python · Java · C++ · C# · SQL · Bash · JavaScript · .NET
+ 
 
 ---
 
@@ -46,7 +64,7 @@ Let's connect if you're working on something ambitious with AI.
 **MBA in Engineering Management** — University of São Paulo (USP)<br/>
 Dissertation: *Artificial Pancreas System for Type-1 Diabetes* ; Concluded July 2021<br/>
 
-**Doctorate in Artificial Intelligence (ABD)** — University of FEI <br/>
+**Doctorate in Artificial Intelligence** — University of FEI <br/>
 Dissertation: *Gaussian Mixture Models with Non-Extensive Entropy* ; In Progress<br/>
 
 **Master's in Artificial Intelligence** — University of FEI<br/>
