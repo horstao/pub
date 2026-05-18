@@ -1,13 +1,13 @@
 # Horst Erdmann
-**Lead AI Engineer & Data Scientist**<br/>
-**Computer Vision · NLP · Generative AI**
 
-<table width="100%" border="0" noborder cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;" >
+**Lead AI Engineer · Computer Vision, NLP & Generative AI · Turning data into measurable business impact for 20+ years**
+
+<table width="100%" border="0" noborder cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="150" style="border-collapse: collapse; border: none;">
+    <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/horstao/pub/main/fundo-branco-2026-1x1.png" width="120"/>
     </td>
-    <td style="border-collapse: collapse; border: none;">
+    <td>
       São Paulo, SP, Brazil <br/>
       <a href="https://wa.me/5511993314645">+55 11 9 9331-4645</a><br/>
       <a href="mailto:horstao@gmail.com">horstao@gmail.com</a><br/>
@@ -19,7 +19,23 @@
 
 ## About Me
 
-I enjoy mentoring and helping people to learn and implement Data Science and AI. I am a Senior AI and Machine Learning professional with 20+ years of experience building end-to-end intelligent systems across Computer Vision, NLP, and predictive analytics. Proven track record delivering measurable business impact. Experienced project leader, mentor, and hands-on practitioner across diverse sectors including fintech, telecom, retail, education, and government. 
+I've spent 20+ years building AI systems that actually work in production — not just in notebooks.
+
+My work spans Computer Vision, NLP, and Generative AI, with deep hands-on experience deploying models at scale across fintech, telecom, retail, and government. I've led teams, mentored engineers, and architected end-to-end ML pipelines from raw data to real-time inference.
+
+A few things I'm proud of:
+- Raised fraud detection accuracy from 27% (human) to 92% (AI) at DETRAN
+- Cut document processing costs by 70% at two different companies
+- Built the AI backbone for a US-based student tutoring platform used at scale, reducing GPT-4 response time to under 1 second with semantic caching
+- Delivered one of the first LLM-powered projects in Brazil using GPT-4 before its public release
+
+I work across the full stack: model design, MLOps, observability (Grafana), and API deployment (FastAPI, Docker, Kubernetes, AWS). My toolkit includes PyTorch, YOLO, EfficientNet, BERT, LangChain, and the broader Hugging Face ecosystem.
+
+Beyond engineering, I care about knowledge transfer. I've taught at university level, presented at TDC Internacional, and published international research — because the field grows when people share what they've learned.
+
+Currently based in São Paulo. Open to AI lead and architect roles in Brazil or remote.
+
+Let's connect if you're working on something ambitious with AI.
 
 
 ---
@@ -71,7 +87,7 @@ Dissertation: *A Hardware-Software Solution for Parking Lots* ; Concluded Decemb
 
 ### Company: Tradex Solutions
 **Position: AI Architect**<br/>
-**Project: Product Recognition on Supermarket Photos**
+**Project: Product Recognition on Supermarket Photos**<br/>
 **2022 - 2026 (4 years)** <br/>
 - Defined and implemented the entire object detection and image recognition pipeline 
 - Correctly identify over 500 different products in supermarket photos
@@ -90,7 +106,7 @@ Dissertation: *A Hardware-Software Solution for Parking Lots* ; Concluded Decemb
 
 ### Company: CK-12 Foundation (USA)
 **Position: Machine Learning Specialist**<br/>
-**Project: Flexi Tutor AI Backbone**
+**Project: Flexi Tutor AI Backbone**<br/>
 **2022 - 2023 (1 year)**<br/>
 Built the AI backbone for a student tutoring platform using RAG architecture and LLM prompt engineering, recognising and classifying text and image questions at scale. Implemented caching and semantic search to reduce LLM latency.
 
@@ -106,7 +122,7 @@ Built the AI backbone for a student tutoring platform using RAG architecture and
 
 ### Company: Creditas
 **Position: Machine Learning Specialist**<br/>
-**Project: Document Processing**
+**Project: Document Processing**<br/>
 **2021 – 2022 (1 year)**<br/>
 
 - Applied AI techniques to image recognition problems, replacing third-party vendors with in-house ML models
@@ -124,11 +140,11 @@ Built the AI backbone for a student tutoring platform using RAG architecture and
 ---
 
 ### Company: NTT Data
-**Position: Artificial Intelligence Leader**
-**2018 – 2021 (3 years)**
+**Position: Artificial Intelligence Leader**<br/>
+**2018 – 2021 (3 years)**<br/>
 **Clients:** Vivo ; LATAM Airlines ; Salesforce ; Ambev ; Unilever ; SulAmérica
 
-- Led research and development teams in AI across image recognition, OCR, and NLP
+- Leader of research and development AI teams on image recognition, OCR, and NLP projects
 - Built hybrid image/text classifiers and NER models using BERT and spaCy
 - Applied deep learning to medical image processing
 - Developed NLP models for resume screening, contract clause extraction, and chatbot intent recognition
@@ -139,8 +155,9 @@ Built the AI backbone for a student tutoring platform using RAG architecture and
 
 
 ### Company: Telefônica Vivo
-**Position: Specialist Data Scientist**
-**2015 – 2018 (3 years)**
+**Position: Specialist Data Scientist**<br/>
+**Project: Aura Project**<br/>
+**2015 – 2018 (3 years)**<br/>
 
 - Core member of the Aura Project — the first chatbot in Brazil powered by BigData insights
 - Built anomaly detection models to alert customers of abnormal data usage
@@ -153,8 +170,8 @@ Built the AI backbone for a student tutoring platform using RAG architecture and
 
 
 ### Company: DeOnibus
-**Position: AI Specialist**
-**Project: Anti-Fraud Classifier**
+**Position: AI Specialist**<br/>
+**Project: Anti-Fraud Classifier**<br/>
 **2017 - 2018 (1 year)**<br/>
 Trained Data Science models for chargeback fraud prevention.
 
@@ -166,8 +183,8 @@ Trained Data Science models for chargeback fraud prevention.
 
 
 ### Company: EMC (Dell)
-**Position: Data Scientist**
-**Project: Contracts Analyzer Solution**
+**Position: Data Scientist**<br/>
+**Project: Contracts Analyzer Solution**<br/>
 **2016 - 2017 (1 year)**<br/>
 Developed a document analysis pipeline with OCR and text mining for named entity recognition (NER).
 
@@ -180,8 +197,9 @@ Developed a document analysis pipeline with OCR and text mining for named entity
 
  
 ### Boolabs
-**Position: Data Scientist**
-**2015-2016 (1 year)**
+**Position: Data Scientist**<br/>
+**Project: Boo Image Search**<br/>
+**2015-2016 (1 year)**<br/>
  
 One of the first Brazilian companies to use Deep Learning.
  
@@ -195,22 +213,20 @@ One of the first Brazilian companies to use Deep Learning.
 **Technologies:** Python · C++ · Java · JavaScript · Caffe · Scikit-Learn · Tesseract · Pandas · NumPy · Matplotlib
  
  
-### Resource Technologies
-**Developer** · 2005 – 2013
-**Clients:** Nokia · Redecard · Itaú · Falabella · Siemens
+### Company: Resource Technologies
+**Position: Automation Engineer**<br/> 
+**2005 – 2013**<br/>
+**Clients:** Nokia · Redecard · Itaú · Falabella · Siemens · Vivo · Bancolombia 
  
-- Designed and implemented high-availability enterprise systems in Java and C++
-- Automated business processes via RPA on SAP and legacy enterprise platforms
-- Led stress-testing and capacity planning for production systems
-- Delivered QA automation for international projects in Chile and Colombia
-- Developed financial system integrations in Java and .NET for banking clients
-- Implemented database design and optimisation for high-throughput transactional systems
-- Delivered software QA and automated test suites using Compuware Suite
+- Automated business processes via RPA on SAP and legacy enterprise platforms for Nokia
 - Built enterprise software solutions and process automation for retail and industrial clients
-- Lived 7 months in Chile and Colombia (2006) delivering on-site for Falabella
 - Delivered data security training in Chile for client engineering teams
-- Automated reporting and task workflows using Bash scripting and VBScript
-- Developed system integrations in C++ and Java across retail and telecoms projects
+- Delivered software QA and automated test suites using Compuware Suite
+- C++ Projects in Colombia and Peru (2007) 
+- Lived 7 months in Chile (2006) for on-site project for Falabella
+- Performed stress and load automated tests for capacity planning
+- Delivered QA automation bots for international projects in Chile and Colombia
+- Implemented database design and optimisation for high-throughput transactional systems
 
 **Technologies:** Java · C++ · .NET · ASP · Microsoft SQL Server · MySQL · Compuware Suite · Oracle Forms · Visual Studio · Bash · VBScript · HTML
  
@@ -226,10 +242,11 @@ One of the first Brazilian companies to use Deep Learning.
 | 2015 | Scientific paper presented at VipImage 2015, Spain |
 | 2014 | Accepted by the University of Pennsylvania (USA) for an exchange doctorate programme |
 | 2013 | Scientific paper presented at VipImage 2013, Portugal |
-| 2010 | Lecturer at Paulista University — Programming and Computer Networks |
+| 2010 | Professor at University Paulista — Programming and Computer Networks |
 | 2008 | Data security course instructor in Chile |
 | 2007 | Published four international book chapters on scientific research |
-| 2006 | Lived 7 months in Chile and Colombia working at Falabella |
+| 2007 | Worked at Vivo in Peru and Bancolombia in Colombia |
+| 2006 | Lived 7 months in Chile working at Falabella |
 | 2002 | Lived 3 months in Germany for a trainee programme at Monforts |
  
 ---
