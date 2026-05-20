@@ -1,6 +1,6 @@
 # Horst Erdmann
 
-**Lead AI Engineer · Computer Vision, NLP & Generative AI · Turning data into measurable business impact for 20+ years**
+**Lead AI Engineer · Computer Vision, NLP & Generative AI**
 
 <table width="100%" border="0" noborder cellspacing="0" cellpadding="0">
   <tr>
@@ -19,7 +19,7 @@
 
 ## About Me
 
-I've spent 20+ years building AI systems that actually work in production — not just in notebooks.
+I've spent 10+ years building AI systems that actually work in production — not just in notebooks.
 
 My work spans Computer Vision, NLP, and Generative AI, with deep hands-on experience deploying models at scale across fintech, telecom, retail, and government. I've led teams, mentored engineers, and architected end-to-end ML pipelines from raw data to real-time inference.
 
