@@ -26,12 +26,11 @@ My work spans Computer Vision, NLP, and Generative AI, with deep hands-on experi
 A few things I'm proud of:
 - Raised fraud detection accuracy from 27% (human) to 92% (AI) at DETRAN
 - Cut document processing costs by 70% at two different companies
-- Built the AI backbone for a US-based student tutoring platform used at scale, reducing GPT-4 response time to under 1 second with semantic caching
-- Delivered one of the first LLM-powered projects in Brazil using GPT-4 before its public release
+- Delivered one of the first LLM-powered projects using GPT-4 before its public release
 
 I work across the full stack: model design, MLOps, observability (Grafana), and API deployment (FastAPI, Docker, Kubernetes, AWS). My toolkit includes PyTorch, YOLO, EfficientNet, BERT, LangChain, and the broader Hugging Face ecosystem.
 
-Beyond engineering, I care about knowledge transfer. I've taught at university level, presented at TDC Internacional, and published international research — because the field grows when people share what they've learned.
+Beyond engineering, I care about knowledge transfer. I've taught at university level, presented at TDC Internacional, and published international research.
 
 Currently based in São Paulo. Open to AI lead and architect roles in Brazil or remote.
 
