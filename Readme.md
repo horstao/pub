@@ -19,7 +19,7 @@
 
 ## About Me
 
-I've spent 10+ years building AI systems that actually work in production — not just in notebooks.
+I've spent 10+ years building AI systems and teams with focus on bringing value to the stakeholders.
 
 My work spans Computer Vision, NLP, and Generative AI, with deep hands-on experience deploying models at scale across fintech, telecom, retail, and government. I've led teams, mentored engineers, and architected end-to-end ML pipelines from raw data to real-time inference.
 
@@ -35,7 +35,7 @@ Beyond engineering, I care about knowledge transfer. I've taught at university l
 
 Currently based in São Paulo. Open to AI lead and architect roles in Brazil or remote.
 
-Let's connect if you're working on something ambitious with AI.
+Let's connect if you're working on something ambitious with AI and Machine Learning
 
 ---
 
