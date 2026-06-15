@@ -19,7 +19,7 @@
 
 ## About Me
 
-I've spent 10+ years building AI systems and teams with focus on bringing value to the stakeholders.
+I've spent 15+ years building AI systems and teams with focus on bringing value to the stakeholders.
 
 My work spans Computer Vision, NLP, and Generative AI, with deep hands-on experience deploying models at scale across fintech, telecom, retail, and government. I've led teams, mentored engineers, and architected end-to-end ML pipelines from raw data to real-time inference.
 
