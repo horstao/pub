@@ -1,6 +1,6 @@
 # Horst Erdmann
 
-**Lead AI Engineer · Computer Vision, NLP & Generative AI**
+**AI Specialist**
 
 <table width="100%" border="0" noborder cellspacing="0" cellpadding="0">
   <tr>
@@ -19,53 +19,30 @@
 
 ## About Me
 
-I've spent 15+ years building AI systems and teams with focus on bringing value to the stakeholders.
+I've spent over 10 years building AI systems and teams with a strong focus on bringing
+measurable business value.
 
-My work spans Computer Vision, NLP, and Generative AI, with deep hands-on experience deploying models at scale across fintech, telecom, retail, and government. I've led teams, mentored engineers, and architected end-to-end ML pipelines from raw data to real-time inference.
+My work spans Computer Vision, NLP, and Generative AI, with deep hands-on experience
+deploying models at scale across fintech, telecom, retail, and government. I've led teams
+and helped create end-to-end ML pipelines from raw data to real-time inference.
 
-A few things I'm proud of:
-- Raised fraud detection accuracy from 27% (human) to 92% (AI) at DETRAN
-- Cut document processing costs by 70% at two different companies
-- Delivered one of the first LLM-powered projects using GPT-4 before its public release
+I have real experience with the latest technologies like AI Agents including Claude Code and
+Open Code, built RAG with Elastic Search and Local or Edge LLMs. I also have experience
+with and projects to use AI to accelerate Backend Development.
 
-I work across the full stack: model design, MLOps, observability (Grafana), and API deployment (FastAPI, Docker, Kubernetes, AWS). My toolkit includes PyTorch, YOLO, EfficientNet, BERT, LangChain, and the broader Hugging Face ecosystem.
-
-Beyond engineering, I care about knowledge transfer. I've taught at university level, presented at TDC Internacional, and published international research.
-
-Currently based in São Paulo. Open to AI lead and architect roles in Brazil or remote.
-
-Let's connect if you're working on something ambitious with AI and Machine Learning
+I work across the full stack: model design, MLOps, observability (Grafana), and API
+deployment (FastAPI, Docker, Kubernetes, AWS). My toolkit includes PyTorch, YOLO,
+EfficientNet, BERT, LangChain, and the broader Hugging Face ecosystem.
 
 ---
 
-## Skills
- 
-**Generative AI & LLMs:** GPT-4 · GPT-3 · LLM Fine-tuning · RAG (Retrieval-Augmented Generation) · Prompt Engineering · LLMOps · TorchServe · Hugging Face · BERT · MiniLM · Transformers
- 
-**Computer Vision:** Object Detection · YOLO · EfficientNet · OpenCV · CNN · OCR (Tesseract, Google OCR) · Image Classification · Image Segmentation · Caffe 
- 
-**NLP:** Named Entity Recognition (NER) · Text Classification · Sentiment Analysis · spaCy · NLTK · Elasticsearch · Lucene · Bag-of-Words · Hugging Face · Transformers
- 
-**Machine Learning & MLOps:** PyTorch · TensorFlow · Keras · Scikit-Learn · LightGBM · Random Forest · Model Monitoring · Drift Detection · Feature Engineering · A/B Testing · Anomaly Detection
- 
-**Data Engineering:** Python · SQL · Hadoop · Spark · Kafka · Redis · Pandas · NumPy · PostgreSQL · MongoDB · Microsoft SQL Server · MySQL
- 
-**Cloud & Infrastructure:** AWS (S3, EKS) · GCP · Azure · Docker · Kubernetes · FastAPI · Flask · Grafana · Prometheus · Label Studio · Linux · Bash · Shell Scripting
- 
-**Languages:** Python · Java · C++ · C# · SQL · Bash · JavaScript · .NET
- 
-
----
-
-
-
-## Academic Formation
+## Education
 
 **MBA in Engineering Management** — University of São Paulo (USP)<br/>
 Dissertation: *Artificial Pancreas System for Type-1 Diabetes* ; Concluded July 2021<br/>
 
 **Doctorate in Artificial Intelligence** — University of FEI <br/>
-Dissertation: *Gaussian Mixture Models with Non-Extensive Entropy* ; In Progress<br/>
+Dissertation: *Gaussian Mixture Models with Non-Extensive Entropy* ; On hold<br/>
 
 **Master's in Artificial Intelligence** — University of FEI<br/>
 Dissertation: *Non-Extensive Entropy for Image Processing* ; Concluded December 2009<br/>
@@ -78,83 +55,101 @@ Dissertation: *A Hardware-Software Solution for Parking Lots* ; Concluded Decemb
 ## Languages
 
 - Portuguese: Native 
-- English: Fluent 
-- Spanish: Advanced 
-- German: Intermediate 
+- English: Advanced (C1)
+- Spanish: Advanced (C1)
+- German: Intermediate (B1)
 
+---
+
+## Skills
+ 
+**Agentic AI Development:** MCP · LangChain · Claude Code · OpenCode
+ 
+**Generative AI & LLMs:** VLM · GPT-4 · Gemma4 · Qwen · Prompt Engineering · RAG
+(Retrieval-Augmented Generation) · Hugging Face · Ollama · Llama.cpp
+ 
+**NLP:** Named Entity Recognition (NER) · Text Classification · Sentiment Analysis · spaCy · NLTK · Elasticsearch · Lucene · Bag-of-Words · Hugging Face · Transformers
+ 
+**Machine Learning & MLOps:** PyTorch · TensorFlow · Keras · Scikit-Learn · LightGBM · Random Forest · Model Monitoring · Drift Detection · Feature Engineering · A/B Testing · Anomaly Detection
+ 
+**Data Engineering:** Python · SQL · Hadoop · Spark · Kafka · Redis · Pandas · NumPy · PostgreSQL · MongoDB · Microsoft SQL Server · MySQL
+ 
+**Cloud & Infrastructure:** AWS (S3, EKS) · GCP · Azure · Docker · Kubernetes · FastAPI · Flask · Grafana · Prometheus · Label Studio · Linux · Bash · Shell Scripting
+ 
+**Languages:** Python · Java · C++ · C# · SQL · Bash · JavaScript · .NET
+ 
 ---
 
 ## Work Experience
 
-### Company: Thomas Greg & Sons (DETRAN)
-**Position: Machine Learning Specialist**<br/>
-**Project: Fraud Prevention using Voice, Image and Text**<br/>
-**Since 2023 (3 years)**<br/>
-- Defined and implemented AI solutions to detect fraud in theoretical and practical driver's license tests
-- Voice, image, and text data handling and analysis
-- Applied object detection and Image Processing pipelines for anti-cheating solution
-- Applied LLM-based prompt engineering to automate document validation at scale
+### Artificial Intelligence Architect
+**Company: Blick Technologies (Client: Detran)**
+**Project: Fraud Prevention using Voice, Image and Text**
+Since 2023
+ 
+- Defined and implemented AI solutions for fraud detection in driver's license tests
+- Created a RAG solution for large documents question answering
+- Implemented AI agents to support backend development and tests
+- Processed and analyzed unstructured data including voice, image, and text
+- Used LLMs as teacher models to distill smaller models for document understanding
+- Fine-tuned LLMs with LoRA, QLoRA and Unsloth for accelerated model training
 
-**Technologies:** C# · Python · FastAPI · OpenCV · PyTorch · YOLO · EfficientNet · CNN · LLM · GPT-4 · Prompt Engineering · OCR · Grafana · Microsoft SQL Server
-
+**Technologies:** C# · Python · FastAPI · OpenCV · PyTorch · YOLO · EfficientNetV2 · CNN · LLM · GPT-4 · Prompt Engineering · OLLAMA · Llama.cpp · OCR · Grafana · Microsoft SQL Server · Azure · Paddle OCR · Unsloth · LoRA · ElasticSearch · RAG
+ 
 **Accomplishments:**
 - Fraud prevention time reduced by 90%
-- Fraud detection rate raised from 27% (human) to 92% (AI)
+- Fraud detection rate raised from 27% (human-only) to 92% (AI-assisted)
 - Document processing costs reduced by 70%
-
-
 ---
+ 
 
+### Artificial Intelligence Architect
+**Company: Blick Technologies (Client: Tradex Solutions)**
+**Project: Product Identification on Supermarket Photos**
+Since 2023
+ 
+- Defined and implemented the entire object detection and image recognition pipeline
+- Built real-time computer vision models capable of identifying over 500 different products
+- Designed event-driven architecture with SNS, SQS and K8s for scalable processing
+- Used Grafana CloudWatch for real-time monitoring and alerting
+- Team motivation, stakeholder communication, sprint planning and prioritization
 
-### Company: Tradex Solutions
-**Position: AI Architect**<br/>
-**Project: Product Recognition on Supermarket Photos**<br/>
-**2022 - 2026 (4 years)** <br/>
-- Defined and implemented the entire object detection and image recognition pipeline 
-- Correctly identify over 500 different products in supermarket photos
-- Designed the MLOps infrastructure for model scalability on K8s and AWS
-- Used Grafana for real-time monitoring and alerting
-
-**Technologies:** Python · FastAPI · PyTorch · CUDA · YOLO · EfficientNet · CNN · OCR · Docker · Kubernetes · Grafana · AWS · Label Studio · PostgreSQL · MongoDB
-
+**Technologies:** Python · FastAPI · OpenCV · PyTorch · YOLO-E · YOLO · EfficientNetV2 · SAM · K-Means · Label-Studio · Google Cloud Vision · AWS · Grafana · MongoDB · PostgreSQL · Elasticsearch · EDA · EKS · SQS · SNS
+ 
 **Accomplishments:**
 - Photo processing under 2 seconds and 100 photos per minute
 - Supermarket operator time decreased by 70%
 - Product identification accuracy raised from 88% (human) to 95% (AI)
 - Real-time observability and alerts on Grafana
 
-
 ---
 
-
-
-### Company: CK-12 Foundation (USA)
-**Position: Machine Learning Specialist**<br/>
-**Project: Flexi Tutor AI Backbone**<br/>
-**2022 - 2023 (1 year)**<br/>
-Built the AI backbone for a student tutoring platform using RAG architecture and LLM prompt engineering, recognising and classifying text and image questions at scale. Implemented caching and semantic search to reduce LLM latency.
+### Artificial Intelligence Specialist
+**Company: CK12 Foundation (USA)**
+**Project: Flexi Tutor AI Backbone**
+2022 – 2023 (1 year)
+ 
+- Built an early GPT-4-powered production solution using pre-release access to the model
+- Built the AI backbone for a student tutoring platform
+- Use of RAG architecture and LLM prompt engineering
+- Question text recognition and classification
+- Implemented caching and semantic search to reduce LLM latency
 
 **Technologies:** Python · TorchServe · PyTorch · MiniLM · BERT · CNN · GPT-3 · GPT-4 · Redis · Elasticsearch
-
-**Accomplishments:**
-- GPT-4 response time reduced to under 1 second using semantic caching
-- Topic classification accuracy improved from 83% to 97% with fine-tuned transformer models
-- Math problem identification accuracy increased to 60% 
-
-
+ 
 ---
 
-### Company: Creditas
-**Position: Machine Learning Specialist**<br/>
-**Project: Document Processing**<br/>
-**2021 – 2022 (1 year)**<br/>
+### Machine Learning Specialist
+**Company: Creditas Bank** 
+**Project: CME - Credit Models Enginnering**
+2021 – 2022 (1 year) 
 
 - Applied AI techniques to image recognition problems, replacing third-party vendors with in-house ML models
 - Improved app user experience through ML-driven features
 - Built model monitoring algorithms on the company's data platform
 - Mentored colleagues in NLP and clustering techniques
 
-**Technologies:** Python ; SQL ; Bash ; Keras ; TensorFlow ; LightGBM ; Scikit-Learn ; Jupyter ; Kafka ; FastAPI ; Docker ; Kubernetes ; AWS ; S3 ; EKS
+**Technologies:** Python · SQL · Bash · Keras · TensorFlow · LightGBM · Scikit-Learn · Jupyter · Kafka · FastAPI · Docker · Kubernetes · AWS · S3 · EKS
 
 **Accomplishments:**
 - Presentation of "When Should I Retrain My Model" in [https://thedevconf.com/tdc/2021/future/artificial-intelligence-track](Internacional TDC)
@@ -163,71 +158,45 @@ Built the AI backbone for a student tutoring platform using RAG architecture and
 
 ---
 
-### Company: NTT Data
-**Position: Artificial Intelligence Leader**<br/>
-**2018 – 2021 (3 years)**<br/>
-**Clients:** Vivo ; LATAM Airlines ; Salesforce ; Ambev ; Unilever ; SulAmérica
-
-- Leader of research and development AI teams on image recognition, OCR, and NLP projects
+### Artificial Intelligence Leader
+**Company: NTT Data**
+2018 – 2021 (3 years)
+Clients: Vivo · LATAM Airlines · Salesforce · Ambev · Unilever · SulAmérica
+ 
+- Leader of research and development AI teams
+- Led image recognition, OCR, and NLP projects
 - Built hybrid image/text classifiers and NER models using BERT and spaCy
 - Applied deep learning to medical image processing
 - Developed NLP models for resume screening, contract clause extraction, and chatbot intent recognition
 - Built computer vision models for beverage detection in refrigerators and automated truck inspection on factory floors
+- Translated complex business problems into actionable AI solutions and tasks
+- Designed and deployed end-to-end ML pipelines on GCP, covering data ingestion, model training, versioning, and serving at scale
+- Managed stakeholders, aligning AI initiatives with business objectives and deadlines
+- Defined technical roadmaps, evaluated emerging AI technologies, and drove adoption of machine learning solutions across multiple client projects
 - Responsible for team building, motivation, and skill development mentoring
+- Presented scientific paper at NVIDIA to secure strategic partnership in Brazil
 
-**Technologies:** Python ; SQL ; Bash ; HTML ; JavaScript ; CSS ; Keras ; TensorFlow ; PyTorch ; BERT ; Hugging Face ; Scikit-Learn ; spaCy ; NLTK ; Grafana ; Prometheus ; PowerBI ; Kafka ; Flask ; Docker ; MongoDB ; GCP ; Google OCR ; Azure SQL
-
-
+**Technologies:** Python · SQL · Bash · Keras · TensorFlow · PyTorch · BERT · Hugging Face · Scikit-Learn · spaCy · NLTK · PowerBI · Kafka · Docker · MongoDB · GCP · Google Cloud Vision OCR · Azure SQL
+ 
 ---
 
-
-### Company: Telefônica Vivo
-**Position: Specialist Data Scientist**<br/>
-**Project: Aura Project**<br/>
-**2015 – 2018 (3 years)**<br/>
+### Data Science Specialist
+**Telefonica Vivo**
+2015 – 2018 (3 years)
+Project: Aura
 
 - Core member of the Aura Project — the first chatbot in Brazil powered by BigData insights
 - Built anomaly detection models to alert customers of abnormal data usage
 - Developed geo-localization models to identify and locate 3G antennas
+- Handled large datasets (100GB+) with Hadoop and Map-Reduce
 - Created massive failure detection models for the wired network
-- Handled large datasets (100GB+) with Hadoop
+- Led sprints objective definition, aligning technical priorities with business requirements
+- Acted as a bridge between Data Science and Data Engineering teams, ensuring effective
+communication and alignment.
+- Served as the point of contact between Vivo and external partners, removing technical and
+organizational blockers to accelerate project deliveries
 
 **Technologies:** Python ; SQL ; Bash ; HTML ; JavaScript ; CSS ; Scikit-Learn ; LightGBM ; NumPy ; Pandas ; PySpark ; Jupyter ; Grafana ; PowerBI ; Hadoop ; Spark ; SAS ; Teradata ; Azure
-
-
----
-
-
-
-### Company: DeOnibus
-**Position: AI Specialist**<br/>
-**Project: Anti-Fraud Classifier**<br/>
-**2017 - 2018 (1 year)**<br/>
-Trained Data Science models for chargeback fraud prevention.
-
-**Technologies:** Python ; Scikit-Learn ; Random Forest ; PowerBI
-
-**Accomplishments:**
-- Chargeback fraud reduced from 15% to 3%
-- Delivered solution dashboards on PowerBI
-
-
----
-
-
-### Company: EMC (Dell)
-**Position: Data Scientist**<br/>
-**Project: Contracts Analyzer Solution**<br/>
-**2016 - 2017 (1 year)**<br/>
-Developed a document analysis pipeline with OCR and text mining for named entity recognition (NER).
-
-**Technologies:** Java ; Tesseract ; Bag-of-Words ; Regex ; Lucene ; OpenCV
-
-**Accomplishments:**
-- Built end-to-end scanned document pipeline with OCR + NER
-- Processing throughput of 20 documents per second
-- Cross-linked contracts sharing common associates
-
 
 ---
 
