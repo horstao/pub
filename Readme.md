@@ -54,38 +54,37 @@ Dissertation: *A Hardware-Software Solution for Parking Lots* ; Concluded Decemb
 
 ## Languages
 
-- Portuguese: Native 
-- English: Advanced (C1)
-- Spanish: Advanced (C1)
-- German: Intermediate (B1)
+- Portuguese: Native <br/>
+- English: Advanced (C1) <br/>
+- Spanish: Advanced (C1) <br/>
+- German: Intermediate (B1) <br/>
 
 ---
 
 ## Skills
  
-**Agentic AI Development:** MCP · LangChain · Claude Code · OpenCode
+**Agentic AI Development:** MCP · LangChain · Claude Code · OpenCode <br/>
  
-**Generative AI & LLMs:** VLM · GPT-4 · Gemma4 · Qwen · Prompt Engineering · RAG
-(Retrieval-Augmented Generation) · Hugging Face · Ollama · Llama.cpp
+**Generative AI & LLMs:** VLM · GPT-4 · Gemma4 · Qwen · Prompt Engineering · RAG (Retrieval-Augmented Generation) · Hugging Face · Ollama · Llama.cpp <br/>
  
-**NLP:** Named Entity Recognition (NER) · Text Classification · Sentiment Analysis · spaCy · NLTK · Elasticsearch · Lucene · Bag-of-Words · Hugging Face · Transformers
+**NLP:** Named Entity Recognition (NER) · Text Classification · Sentiment Analysis · spaCy · NLTK · Elasticsearch · Lucene · Bag-of-Words · Hugging Face · Transformers <br/>
  
-**Machine Learning & MLOps:** PyTorch · TensorFlow · Keras · Scikit-Learn · LightGBM · Random Forest · Model Monitoring · Drift Detection · Feature Engineering · A/B Testing · Anomaly Detection
+**Machine Learning & MLOps:** PyTorch · TensorFlow · Keras · Scikit-Learn · LightGBM · Random Forest · Model Monitoring · Drift Detection · Feature Engineering · A/B Testing · Anomaly Detection <br/>
  
-**Data Engineering:** Python · SQL · Hadoop · Spark · Kafka · Redis · Pandas · NumPy · PostgreSQL · MongoDB · Microsoft SQL Server · MySQL
+**Data Engineering:** Python · SQL · Hadoop · Spark · Kafka · Redis · Pandas · NumPy · PostgreSQL · MongoDB · Microsoft SQL Server · MySQL <br/>
  
-**Cloud & Infrastructure:** AWS (S3, EKS) · GCP · Azure · Docker · Kubernetes · FastAPI · Flask · Grafana · Prometheus · Label Studio · Linux · Bash · Shell Scripting
+**Cloud & Infrastructure:** AWS (S3, EKS) · GCP · Azure · Docker · Kubernetes · FastAPI · Flask · Grafana · Prometheus · Label Studio · Linux · Bash · Shell Scripting <br/>
  
-**Languages:** Python · Java · C++ · C# · SQL · Bash · JavaScript · .NET
+**Languages:** Python · Java · C++ · C# · SQL · Bash · JavaScript · .NET <br/>
  
 ---
 
 ## Work Experience
 
 ### Artificial Intelligence Architect
-**Company: Blick Technologies (Client: Detran)**
-**Project: Fraud Prevention using Voice, Image and Text**
-Since 2023
+**Company: Blick Technologies (Client: Detran)**  <br/>
+**Project: Fraud Prevention using Voice, Image and Text**  <br/>
+Since 2023  <br/>
  
 - Defined and implemented AI solutions for fraud detection in driver's license tests
 - Created a RAG solution for large documents question answering
@@ -97,15 +96,16 @@ Since 2023
 **Technologies:** C# · Python · FastAPI · OpenCV · PyTorch · YOLO · EfficientNetV2 · CNN · LLM · GPT-4 · Prompt Engineering · OLLAMA · Llama.cpp · OCR · Grafana · Microsoft SQL Server · Azure · Paddle OCR · Unsloth · LoRA · ElasticSearch · RAG
  
 **Accomplishments:**
-- Fraud prevention time reduced by 90%
-- Fraud detection rate raised from 27% (human-only) to 92% (AI-assisted)
-- Document processing costs reduced by 70%
+- Fraud prevention time reduced by 90%  <br/>
+- Fraud detection rate raised from 27% (human-only) to 92% (AI-assisted) <br/>
+- Document processing costs reduced by 70% <br/>
+
 ---
  
 
 ### Artificial Intelligence Architect
-**Company: Blick Technologies (Client: Tradex Solutions)**
-**Project: Product Identification on Supermarket Photos**
+**Company: Blick Technologies (Client: Tradex Solutions)**  <br/>
+**Project: Product Identification on Supermarket Photos**  <br/>
 Since 2023
  
 - Defined and implemented the entire object detection and image recognition pipeline
@@ -117,17 +117,17 @@ Since 2023
 **Technologies:** Python · FastAPI · OpenCV · PyTorch · YOLO-E · YOLO · EfficientNetV2 · SAM · K-Means · Label-Studio · Google Cloud Vision · AWS · Grafana · MongoDB · PostgreSQL · Elasticsearch · EDA · EKS · SQS · SNS
  
 **Accomplishments:**
-- Photo processing under 2 seconds and 100 photos per minute
-- Supermarket operator time decreased by 70%
-- Product identification accuracy raised from 88% (human) to 95% (AI)
-- Real-time observability and alerts on Grafana
+- Photo processing under 2 seconds and 100 photos per minute <br/>
+- Supermarket operator time decreased by 70% <br/>
+- Product identification accuracy raised from 88% (human) to 95% (AI) <br/>
+- Real-time observability and alerts on Grafana <br/>
 
 ---
 
 ### Artificial Intelligence Specialist
-**Company: CK12 Foundation (USA)**
-**Project: Flexi Tutor AI Backbone**
-2022 – 2023 (1 year)
+**Company: CK12 Foundation (USA)** <br/>
+**Project: Flexi Tutor AI Backbone** <br/>
+2022 – 2023 (1 year) <br/>
  
 - Built an early GPT-4-powered production solution using pre-release access to the model
 - Built the AI backbone for a student tutoring platform
@@ -140,9 +140,9 @@ Since 2023
 ---
 
 ### Machine Learning Specialist
-**Company: Creditas Bank** 
-**Project: CME - Credit Models Enginnering**
-2021 – 2022 (1 year) 
+**Company: Creditas Bank** <br/> 
+**Project: CME - Credit Models Enginnering** <br/>
+2021 – 2022 (1 year)  <br/>
 
 - Applied AI techniques to image recognition problems, replacing third-party vendors with in-house ML models
 - Improved app user experience through ML-driven features
@@ -159,9 +159,9 @@ Since 2023
 ---
 
 ### Artificial Intelligence Leader
-**Company: NTT Data**
-2018 – 2021 (3 years)
-Clients: Vivo · LATAM Airlines · Salesforce · Ambev · Unilever · SulAmérica
+**Company: NTT Data** <br/>
+2018 – 2021 (3 years) <br/>
+Clients: Vivo · LATAM Airlines · Salesforce · Ambev · Unilever · SulAmérica <br/>
  
 - Leader of research and development AI teams
 - Led image recognition, OCR, and NLP projects
@@ -181,9 +181,9 @@ Clients: Vivo · LATAM Airlines · Salesforce · Ambev · Unilever · SulAméric
 ---
 
 ### Data Science Specialist
-**Telefonica Vivo**
-2015 – 2018 (3 years)
-Project: Aura
+**Telefonica Vivo** <br/>
+2015 – 2018 (3 years) <br/>
+Project: Aura <br/>
 
 - Core member of the Aura Project — the first chatbot in Brazil powered by BigData insights
 - Built anomaly detection models to alert customers of abnormal data usage
@@ -202,9 +202,9 @@ organizational blockers to accelerate project deliveries
 
  
 ### Boolabs
-**Position: Data Scientist**<br/>
-**Project: Boo Image Search**<br/>
-**2015-2016 (1 year)**<br/>
+**Position: Data Scientist** <br/>
+**Project: Boo Image Search** <br/>
+2015-2016 (1 year) <br/>
  
 One of the first Brazilian companies to use Deep Learning.
  
@@ -223,8 +223,8 @@ One of the first Brazilian companies to use Deep Learning.
  
 ### Company: Resource Technologies
 **Position: Automation Engineer**<br/> 
-**2005 – 2013**<br/>
-**Clients:** Nokia · Redecard · Itaú · Falabella · Siemens · Vivo · Bancolombia 
+Clients: Nokia · Redecard · Itaú · Falabella · Siemens · Vivo · Bancolombia  <br/>
+2005 – 2013 <br/>
  
 - Automated business processes via RPA on SAP and legacy enterprise platforms for Nokia
 - Built enterprise software solutions and process automation for retail and industrial clients
