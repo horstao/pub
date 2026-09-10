@@ -194,7 +194,7 @@ Project: Aura <br/>
 - Acted as a bridge between Data Science and Data Engineering teams, ensuring effective
 communication and alignment.
 - Served as the point of contact between Vivo and external partners, removing technical and
-organizational blockers to accelerate project deliveries
+organizational blockers to accelerate project deliveries <br/>
 
 **Technologies:** Python ; SQL ; Bash ; HTML ; JavaScript ; CSS ; Scikit-Learn ; LightGBM ; NumPy ; Pandas ; PySpark ; Jupyter ; Grafana ; PowerBI ; Hadoop ; Spark ; SAS ; Teradata ; Azure
 
@@ -214,7 +214,8 @@ One of the first Brazilian companies to use Deep Learning.
 - Developed low-vision image processing for matching images regardless of rotation and brightness
 - Used NLP and computer vision to match ads across different e-commerce sites
 - Built an OCR pipeline for legal contracts using Tesseract
-- Created a Named Entity Recognition (NER) model to extract entities from OCR'd contracts
+- Created a Named Entity Recognition (NER) model to extract entities from OCR'd contracts <br/>
+
 **Technologies:** Python · C++ · Java · JavaScript · Caffe · Scikit-Learn · Tesseract · Pandas · NumPy · Matplotlib
  
 
@@ -234,7 +235,7 @@ Clients: Nokia · Redecard · Itaú · Falabella · Siemens · Vivo · Bancolomb
 - Lived 7 months in Chile (2006) for on-site project for Falabella
 - Performed stress and load automated tests for capacity planning
 - Delivered QA automation bots for international projects in Chile and Colombia
-- Implemented database design and optimisation for high-throughput transactional systems
+- Implemented database design and optimisation for high-throughput transactional systems <br/>
 
 **Technologies:** Java · C++ · .NET · ASP · Microsoft SQL Server · MySQL · Compuware Suite · Oracle Forms · Visual Studio · Bash · VBScript · HTML
  
