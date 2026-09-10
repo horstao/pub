@@ -245,7 +245,6 @@ Clients: Nokia · Redecard · Itaú · Falabella · Siemens · Vivo · Bancolomb
  
 | Year | Achievement |
 |------|-------------|
-| 2023 | Worked on a project using GPT-4 prior to its public release — USA |
 | 2021 | Presented [When Should I Retrain My Model](https://thedevconf.com/tdc/2021/future/artificial-intelligence-track) at TDC Internacional |
 | 2020 | Created [HAPS — Artificial Pancreas for Type-1 Diabetes for a 640g insulin pump](https://github.com/horstao/pub/blob/main/Erdmann_Pancreas_Artificial_Deposito_Final.pdf) |
 | 2015 | Scientific paper presented at [VipImage 2015](https://github.com/horstao/pub/blob/main/VIPIMAGE2015%20-%20Improving%20deep%20neural%20networks%20classification%20by%20preprocessing%20images.pdf), Spain |
