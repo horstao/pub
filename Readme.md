@@ -141,7 +141,7 @@ Since 2023
 
 ### Machine Learning Specialist
 **Company: Creditas Bank** <br/> 
-**Project: CME - Credit Models Enginnering** <br/>
+**Project: CME - Credit Models Engineering** <br/>
 2021 – 2022 (1 year)  <br/>
 
 - Applied AI techniques to image recognition problems, replacing third-party vendors with in-house ML models
